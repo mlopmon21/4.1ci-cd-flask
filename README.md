@@ -1,4 +1,4 @@
-# Práctica 4.1 — CI con GitHub Actions (Flask) | Guía desde 0 (para un compañero)
+# Práctica 4.1 — CI con GitHub Actions (Flask)
 
 ## 1 Objetivo
 En esta práctica se trabaja con una aplicación **Flask** y se configura **CI/CD** con **GitHub Actions**. 

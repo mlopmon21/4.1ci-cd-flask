@@ -156,7 +156,7 @@ python3 -m unittest discover -s tests -p "*.py" -v
 ```
 git status
 ```
-### 9.2 Añadir archivo y hacer commit
+### 8.2 Añadir archivo y hacer commit
 ```
 git add tests/test.py
 ```

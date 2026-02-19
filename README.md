@@ -151,8 +151,8 @@ python3 -m unittest discover -s tests -p "*.py" -v
 
 - Debe mostrar OK.
 
-### 8 Subir cambios a GitHub (commit + push)
-## 8.1 Ver cambios
+## 8 Subir cambios a GitHub (commit + push)
+### 8.1 Ver cambios
 ```
 git status
 ```

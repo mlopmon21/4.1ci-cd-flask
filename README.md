@@ -185,7 +185,8 @@ PASOS:
 
 ### 1 Workflow de CI ejecutado en GitHub Actions (Actions)
 
-![CI en GitHub Actions](img/4.1ci%20funcionando.png)
+![CI en GitHub Actions](img/4.1githubActions1.png)
+![CI en GitHub Actions](img/4.1githubActions1.png)
 
 ### 2 Tests ejecutados en la máquina virtual (unittest)
 
